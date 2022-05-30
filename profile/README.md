@@ -1,6 +1,14 @@
-## Let's Swifty!
+# Let's Swifty!
 
-## 스터디원 
+<div align=center>
+  
+  <img width="750" src="https://user-images.githubusercontent.com/59866819/171024189-2f1fecd8-5489-4050-8260-2a01aa108abb.png">
+  
+  ### Swift의 기초를 탄탄하게 다지고, 머쩅이 iOS Developer가 되고 싶은 사람들의 모임
+  
+</div>
+ 
+### 스터디원 
 
 ||닉네임|깃헙|정리 링크|기타|
 |:---:|:---:|:---:|:---:|---|  
