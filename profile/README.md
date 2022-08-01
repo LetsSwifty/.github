@@ -8,10 +8,11 @@
   
 </div>
 
-# 스터디 태그
-- 기본편 : 🔴
-- 실전편 : 🟠
+</br>
+
+----
  
+### 스터디원
 ||닉네임|깃헙|정리 링크|기타|참여 스터디|
 |:---:|:---:|:---:|:---:|---|---|
 |1| *🔨 빠각* |[keenkim1202](https://github.com/keenkim1202/)|[keenkim1202](https://github.com/keenkim1202/KEENs_TIL/tree/main/Swift)|[블로그](https://nareunhagae.tistory.com/)|🔴|
@@ -26,3 +27,9 @@
 |10| *🍀 갱이* |[gaeng2y](https://github.com/gaeng2y)         |||🟠|
 |11| *🦖 둘리* |[heejin342](https://github.com/heejin342)     |[heejin342](https://www.notion.so/39c53bce4633453da9db29f01d8a04ce)||🟠|
 |12| *🍟 포카칩* |[vhzkclq0705](https://github.com/vhzkclq0705)         |||🟠|
+
+----
+
+### 스터디 태그
+- 기본편 : 🔴
+- 실전편 : 🟠
