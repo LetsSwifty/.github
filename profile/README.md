@@ -27,6 +27,7 @@
 |10| *🍀 갱이* |[gaeng2y](https://github.com/gaeng2y)         |[gaeng2y](https://gaeng2y.notion.site/Let-s-Swifty-7aaf6893953e4e4f999142f0cd0de312)|[블로그](https://gaeng2y.medium.com/)|🟠|
 |11| *🦖 둘리* |[heejin342](https://github.com/heejin342)     |[heejin342](https://www.notion.so/39c53bce4633453da9db29f01d8a04ce)||🟠|
 |12| *🍟 포카칩* |[vhzkclq0705](https://github.com/vhzkclq0705)         |[vhzkclq0705](https://lively-comb-f3c.notion.site/Swifty-cb0902146863461da1220859930a7ea0)|[블로그](https://velog.io/@o_joon_)|🟠|
+|13| *☔️ 나리* |[k-nh](https://github.com/k-nh)         |[k-nh](https://jazzy-monarch-2bc.notion.site/Swift-53f8c94acb2b47afbcff14a94642ecce)||🟠|
 
 ----
 
