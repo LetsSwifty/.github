@@ -18,6 +18,7 @@
 |1| *🔨 빠각* |[keenkim1202](https://github.com/keenkim1202/)|[keenkim1202](https://github.com/keenkim1202/KEENs_TIL/tree/main/Swift)|[블로그](https://nareunhagae.tistory.com/)|🔴|
 |2| *🏞 미시시피* |[YongHoon](https://github.com/akatcn)         |[YongHoon](https://yonghooon.notion.site/5f8565e3f0324f7b95ffc9cfef50abc5)||🔴|
 |3| *🍉 메론* |[YeJinHong](https://github.com/florence96)    |[YeJinHong](https://great-jodhpur-c7a.notion.site/c46e3848e4fa4302b44d23ec3cf1f728?v=98299b87b52448a38cc31cf377d87924)||🔴 🟠|
+|3|||[실전편](https://great-jodhpur-c7a.notion.site/c94ae45f18d34a80aa70cf9151811dda?v=29d017a0874d465aa10fee9dbb82e28c)|||
 |4| *👖 jinjin* |[JINHYUNGP](https://github.com/JINHYUNGP)     |[JINHYUNGP](https://www.notion.so/cb544ad529b14815921ef25e9d687fe3)||🔴 🟠|
 |5| *👾 Rx* |[kangddong](https://github.com/kanddong)      |[kangddong](https://voracious-pigment-aaf.notion.site/Swift-7792b95afb1e4fb7950f5fd05b5f465e)|[블로그](https://plcprogrammer-dy.tistory.com)|🔴 🟠|
 |6| *👽 밍* |[mingging](https://github.com/mingging)       |[mingging](https://mingging.notion.site/Swift-90657d13c64a4ea99d61ef8e12b68ca4)||🔴 🟠|
