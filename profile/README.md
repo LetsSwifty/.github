@@ -23,12 +23,11 @@
 |5| *👾 Rx* |[kangddong](https://github.com/kanddong)      |[kangddong](https://voracious-pigment-aaf.notion.site/Swift-7792b95afb1e4fb7950f5fd05b5f465e)|[블로그](https://plcprogrammer-dy.tistory.com)|🔴 🟠|
 |6| *👽 밍* |[mingging](https://github.com/mingging)       |[mingging](https://mingging.notion.site/Swift-90657d13c64a4ea99d61ef8e12b68ca4)||🔴 🟠|
 |7| *🐰 김희진* |[heejin342](https://github.com/heejin342)     |[heejin342](https://www.notion.so/39c53bce4633453da9db29f01d8a04ce)||🔴 🟠|
-|8| *🧝🏻‍♀️ 프프* |[yoogail105](https://github.com/yoogail105)   |[yoogail105](https://github.com/yoogail105/KkokkoSwift#-꼼꼼한-재은씨의-swift-기본편)||🔴 🟠|
+|8| *🧝🏻‍♀️ 프프* |[yoogail105](https://github.com/yoogail105)   |[yoogail105](https://github.com/yoogail105/KkokkoSwift#-꼼꼼한-재은씨의-swift-기본편)||🔴|
 |9| *🍰 서윗* |[lii0730](https://github.com/lii0730)         |[lii0730](https://github.com/lii0730/Swift_Basic)||🔴 🟠|
 |10| *🍀 갱이* |[gaeng2y](https://github.com/gaeng2y)         |[gaeng2y](https://gaeng2y.notion.site/Let-s-Swifty-7aaf6893953e4e4f999142f0cd0de312)|[블로그](https://gaeng2y.medium.com/)|🟠|
-|11| *🦖 둘리* |[heejin342](https://github.com/heejin342)     |[heejin342](https://www.notion.so/39c53bce4633453da9db29f01d8a04ce)||🟠|
-|12| *🍟 포카칩* |[vhzkclq0705](https://github.com/vhzkclq0705)         |[vhzkclq0705](https://lively-comb-f3c.notion.site/Swifty-cb0902146863461da1220859930a7ea0)|[블로그](https://velog.io/@o_joon_)|🟠|
-|13| *☔️ 나리* |[k-nh](https://github.com/k-nh)         |[k-nh](https://jazzy-monarch-2bc.notion.site/Swift-53f8c94acb2b47afbcff14a94642ecce)||🟠|
+|11| *🍟 포카칩* |[vhzkclq0705](https://github.com/vhzkclq0705)         |[vhzkclq0705](https://lively-comb-f3c.notion.site/Swifty-cb0902146863461da1220859930a7ea0)|[블로그](https://velog.io/@o_joon_)|🟠|
+|12| *☔️ 나리* |[k-nh](https://github.com/k-nh)         |[k-nh](https://jazzy-monarch-2bc.notion.site/Swift-53f8c94acb2b47afbcff14a94642ecce)||🟠|
 
 ----
 
